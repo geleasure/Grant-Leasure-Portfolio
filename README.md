@@ -8,7 +8,7 @@ Grant Leasure portfolio with work experice and resume.
 * CSS
 
 ## Website
-https://jcorum11.github.io/jakes-amazing-portfolio/
+https://geleasure.github.io/Grant-Leasure-Portfolio/
 
 ## Contribution
 Made with 🤪 by Grant Leasure

@@ -12,3 +12,5 @@ https://geleasure.github.io/Grant-Leasure-Portfolio/
 
 ## Contribution
 Made with 🙏 by Grant Leasure
+
+![Grant's Portfolio](./website.png)

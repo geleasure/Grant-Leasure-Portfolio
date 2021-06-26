@@ -11,6 +11,4 @@ Grant Leasure portfolio with work experice and resume.
 https://geleasure.github.io/Grant-Leasure-Portfolio/
 
 ## Contribution
-Made with 🤪 by Grant Leasure
-
-![Horiseon website]("./assets/images.website.png")
+Made with 🙏 by Grant Leasure

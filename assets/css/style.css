@@ -126,9 +126,9 @@ nav ul li a {
     background-size: cover;
 }
 
-.led-wall {
-    background-image: url("../images/led-wall.png");
-    background-position: center center;
+.horiseon {
+    background-image: url("../images/horiseon.png");
+    background-size: cover;
 }
 
 .calculator {

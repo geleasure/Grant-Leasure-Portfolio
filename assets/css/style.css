@@ -62,8 +62,13 @@ nav ul li a {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    height: 2px;
-    position: relative;
+    /* height: 2px; */
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+    background-position: 50% 35%;
+    height: 200px;
     display: flex;
     justify-content: flex-end;
     align-items: flex-start;

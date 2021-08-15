@@ -136,9 +136,9 @@ nav ul li a {
     background-size: cover;
 }
 
-.calculator {
-    background-image: url("../images/calculator.jpg");
-    background-position: left 25%;
+.groupproject {
+    background-image: url("../images/groupproject.jpg");
+    background-position: cover;
 }
 
 .pastel-puzzles {
@@ -148,7 +148,7 @@ nav ul li a {
 
 .surf-report {
     background-image: url("../images/surf-report.jpg");
-    background-position: center;
+    background-position: 10% center;
 }
 
 .blue-background {
